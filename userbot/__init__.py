@@ -49,7 +49,7 @@ if CONFIG_CHECK:
     quit(1)
 
 # Telegram App KEY and HASH
-API_KEY = os.environ.get("API_KEY", "113813"8)
+API_KEY = os.environ.get("API_KEY", "1138138")
 API_HASH = os.environ.get("API_HASH", "7a9ceb98f211c173f9a0d2b2d5e2c75a")
 
 
